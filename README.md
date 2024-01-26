@@ -21,7 +21,7 @@ npm run dev
 
 ## Technologies used
 
-1. React
-2. Typescript for type safety
-3. Vite for fast defelopment and supporting latest packages versions
-4. Wagmi as it's lightweight, well optimised and documented
+1. `React`
+2. `Typescript` for type safety
+3. `Vite` for fast defelopment and supporting latest packages versions
+4. `Wagmi` as it's lightweight, well optimised and documented
